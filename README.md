@@ -1,6 +1,18 @@
-# JS-enabled demo Mongoose OS firmware
+Build steps
 
-This is the JS demo Mongoose OS app. It gets installed by default at
-[Mongoose OS installation step](https://mongoose-os.com/docs/). It has
-a lot of functionality enabled - cloud integrations, JavaScript engine, etc.
-Its main purpose is to demonstrate the capabilities of Mongoose OS.
+mos build --arch esp8266
+
+flash
+
+mos flash
+
+mos console
+
+ - see what's going on
+ 
+ 
+ 
+ need to setup a mosquitto broker and send the data to grafana using telegraf
+ do this on astrolab,hopto.org
+ 
+ apt-get install mosquito
