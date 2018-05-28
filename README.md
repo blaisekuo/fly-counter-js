@@ -16,3 +16,8 @@ mos console
  do this on astrolab,hopto.org
  
  apt-get install mosquito
+
+how to on setting up mosquitto, influxdb, grafana
+
+http://www.svtechie.com/index.php/2017/03/11/iot-connectivity-time-series-storage/
+
