@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e1dca15-ac3d-4e1b-ad4f-0766ff3ba2b0" name="Default" comment="" />
+    <list default="true" id="7e1dca15-ac3d-4e1b-ad4f-0766ff3ba2b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/build.local.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/build.local.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/build.log" beforeDir="false" afterPath="$PROJECT_DIR$/build/build.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fs/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/fs/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fw.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/fw.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fw/fly-counter-js-esp8266-1.0.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/fw/fly-counter-js-esp8266-1.0.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fw/fly-counter-js-esp8266-last.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/fw/fly-counter-js-esp8266-last.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/gen/build_ctx.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/gen/build_ctx.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/gen/build_info.c" beforeDir="false" afterPath="$PROJECT_DIR$/build/gen/build_info.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/gen/build_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/gen/build_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/gen/build_stat.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/gen/build_stat.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/gen/mg_build_info.c" beforeDir="false" afterPath="$PROJECT_DIR$/build/gen/mg_build_info.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/gen/mgos_config.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/gen/mgos_config.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/gen/mgos_ro_vars.h" beforeDir="false" afterPath="$PROJECT_DIR$/build/gen/mgos_ro_vars.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/gen/mos_final.yml" beforeDir="false" afterPath="$PROJECT_DIR$/build/gen/mos_final.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/objs/fw.elf" beforeDir="false" afterPath="$PROJECT_DIR$/build/objs/fw.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fs/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/fs/init.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +32,8 @@
       <file leaf-file-name="init.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fs/init.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            <state relative-caret-position="405">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -53,6 +71,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,8 +89,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -79,116 +97,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -257,6 +165,7 @@
       <updated>1527494026106</updated>
       <workItem from="1527494027852" duration="294000" />
       <workItem from="1527495282835" duration="4092000" />
+      <workItem from="1530054158931" duration="2268000" />
     </task>
     <task id="LOCAL-00001" summary="100 ms read on A0">
       <created>1527639237852</created>
@@ -269,7 +178,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4386000" />
+    <option name="totallyTimeSpent" value="6654000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="45" width="1106" height="1080" extended-state="0" />
@@ -316,6 +225,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/fs/init.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fs/init.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
         </state>
@@ -323,8 +239,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fs/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="405">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
         </state>
       </provider>
     </entry>

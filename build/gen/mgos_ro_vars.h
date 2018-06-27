@@ -1,6 +1,6 @@
 /*
  * Generated file - do not edit.
- * Command: /mongoose-os/fw/tools/gen_sys_config.py --c_name=mgos_ro_vars --c_global_name=mgos_sys_ro_vars --dest_dir=/fwbuild-volumes/2.1/apps/fly-counter-js/esp8266/build_contexts/build_ctx_862433974/build/gen/ /mongoose-os/fw/src/mgos_ro_vars_schema.yaml
+ * Command: /mongoose-os/fw/tools/gen_sys_config.py --c_name=mgos_ro_vars --c_global_name=mgos_sys_ro_vars --dest_dir=/fwbuild-volumes/2.1/apps/fly-counter-js/esp8266/build_contexts/build_ctx_489540342/build/gen/ /mongoose-os/fw/src/mgos_ro_vars_schema.yaml
  */
 
 #ifndef MGOS_RO_VARS_H_
